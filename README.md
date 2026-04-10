@@ -6,7 +6,7 @@ Role focus: **JavaScript/TypeScript Fullstack + Node.js**, **System Design**, **
 
 | Area | Files | Priority |
 |------|-------|----------|
-| [System Design](./system-design/) | Fundamentals → Distributed Systems → DB → API/Microservices → Problems → Search → Real-Time | ⭐⭐⭐ |
+| [System Design](./system-design/) | Fundamentals → Distributed Systems → DB → API/Microservices → Problems → Search → Real-Time → **Case Studies** | ⭐⭐⭐ |
 | [AWS](./aws/) | Core Services → Networking/Security → Serverless/Containers → Well-Architected | ⭐⭐⭐ |
 | [Communication](./communication/) | Leadership & Behavioral → Technical Presentation → Company Research → Personal Narrative → Loop Tactics → Negotiation | ⭐⭐⭐ |
 | [Engineering Leadership](./engineering-leadership/) | Technical Strategy → DevOps & Delivery | ⭐⭐⭐ |
