@@ -8,9 +8,11 @@ Role focus: **JavaScript/TypeScript Fullstack + Node.js**, **System Design**, **
 |------|-------|----------|
 | [System Design](./system-design/) | Fundamentals → Distributed Systems → DB → API/Microservices → Problems → Search → Real-Time | ⭐⭐⭐ |
 | [AWS](./aws/) | Core Services → Networking/Security → Serverless/Containers → Well-Architected | ⭐⭐⭐ |
-| [Communication](./communication/) | Leadership & Behavioral → Technical Presentation → Company Research | ⭐⭐⭐ |
+| [Communication](./communication/) | Leadership & Behavioral → Technical Presentation → Company Research → Personal Narrative → Loop Tactics → Negotiation | ⭐⭐⭐ |
 | [Engineering Leadership](./engineering-leadership/) | Technical Strategy → DevOps & Delivery | ⭐⭐⭐ |
-| [JS/TS + Node.js](./javascript-typescript/) | Node Internals → TypeScript Patterns → GraphQL → Frontend at Scale | ⭐⭐ |
+| [Security](./security/) | Security Architecture (Zero-Trust, OAuth2/OIDC, STRIDE, OWASP) | ⭐⭐⭐ |
+| [Coding](./coding/) | Principal-Level Coding Patterns & Interview Tactics | ⭐⭐ |
+| [JS/TS + Node.js](./javascript-typescript/) | Node Internals → TypeScript → GraphQL → Frontend → Performance → AI/LLM | ⭐⭐ |
 
 ---
 
@@ -61,9 +63,16 @@ Principal engineers are expected to operate at the **org level**, not just the t
 - `communication/01-leadership-and-behavioral.md`
 - `communication/02-technical-presentation.md`
 
-**Day 5 — Practice + Company Research**
-- `system-design/04-api-and-microservices.md`
+**Day 5 — Security + Coding + Practice**
+- `security/01-security-architecture.md`
+- `coding/01-principal-level-coding.md`
 - `system-design/06-search-and-data-systems.md`
 - `system-design/07-real-time-systems.md`
 - `system-design/05-design-problems.md` (practice 2–3 full problems end-to-end)
+
+**Day 6 (if time) — Narrative + Loop Prep**
+- `communication/04-personal-narrative.md` (write your own 2-min intro)
+- `communication/05-interview-loop-tactics.md`
+- `communication/06-compensation-negotiation.md`
 - `communication/03-company-research-framework.md` (fill in for your specific company)
+- `javascript-typescript/06-ai-llm-integration.md`
