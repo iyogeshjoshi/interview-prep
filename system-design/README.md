@@ -7,3 +7,5 @@
 | [03-database-design.md](./03-database-design.md) | SQL vs NoSQL, indexing, ACID, NoSQL types, caching strategies, DynamoDB deep dive |
 | [04-api-and-microservices.md](./04-api-and-microservices.md) | REST/GraphQL/gRPC, microservices decomposition, API gateway, BFF, event-driven patterns, security |
 | [05-design-problems.md](./05-design-problems.md) | URL shortener, chat system, news feed, rate limiter, e-commerce order system |
+| [06-search-and-data-systems.md](./06-search-and-data-systems.md) | Elasticsearch/OpenSearch architecture, inverted index, query DSL, DB sync strategies (CDC), data lake on AWS, Kinesis pipelines |
+| [07-real-time-systems.md](./07-real-time-systems.md) | Polling vs SSE vs WebSocket comparison, Node.js implementations, scaling WebSockets with Redis pub/sub, presence, fan-out, CRDT |
